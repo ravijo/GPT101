@@ -1,5 +1,7 @@
 # GPT101
-Getting started with GPT for language modeling. This project is based on the GPT implementation by Andrej Karpathy, i.e., [nanoGPT](https://github.com/karpathy/nanoGPT). The code has been adapted and extended for learning purposes and fun. The GPT model is trained on various speeches given by [Donald Trump](https://huggingface.co/datasets/jonaskoenig/trump_administration_statement), with the goal of generating text in a similar style.
+Getting started with GPT for language modeling. 
+
+This project is based on the GPT implementation by Andrej Karpathy, i.e., [nanoGPT](https://github.com/karpathy/nanoGPT). The code has been adapted and extended for learning purposes and fun. The GPT model is trained on various speeches given by Donald Trump, with the goal of generating text in a similar style.
 
 
 <h3 align="center">Run on Google Colab (No GPU Required)</h3>
